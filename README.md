@@ -3,8 +3,8 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Pasan Wijemanna</h1>
-<h3 align="center">An aspiring Machine Learning / AI Engineer from Sri Lanka 🇱🇰</h3>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<h3 align="center">An aspiring Machine Learning / AI Engineer from Sri Lanka</h3>
+<p align="center"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/></p><br> 
 
 <p align="center">
   This repository collects my portfolio projects, notebooks, and code to showcase my skills. <br/> Feel free to explore my work and connect with me!
@@ -85,12 +85,20 @@
 </div>
 
 
+<div align="center" >
+<a  href="https://github.com/SP-XD">
 
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
+</a>
 
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
-### 👨‍💻 My GitHub Contribution Graph
+</details>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasanwijemanna&bg_color=282a36&color=ff79c6&line=ff79c6&point=f1fa8c&area=true&hide_border=true" alt="pasanwijemanna's contribution graph" />
 </div>
