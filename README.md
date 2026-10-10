@@ -1,106 +1,150 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pasanwijemanna&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+ <div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=pasanwijemanna&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+  <h1>Hi 👋, I'm Pasan Wijemanna</h1>
+  <h3>🤖 Aspiring Machine Learning & AI Engineer | 🇱🇰 Sri Lanka</h3>
+
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="300" alt="Developer at work" />
+
+  <p>
+    <b>Building with Python. Learning AI. Creating real-world solutions.</b>
+  </p>
+
+  <p>
+    <a href="https://github.com/pasanwijemanna">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com/in/pasanwijemanna">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:pasanwijemanna54@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Pasan Wijemanna</h1>
-<h3 align="center">An aspiring Machine Learning / AI Engineer from Sri Lanka</h3>
-<p align="center"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/></p><br> 
+---
 
-<p align="center">
-  This repository collects my portfolio projects, notebooks, and code to showcase my skills. <br/> Feel free to explore my work and connect with me!
+## 👨‍💻 About Me
+
+- 🎓 I'm a **Software Engineering undergraduate** at the Open University of Sri Lanka.
+- 🤖 My main career goal is to become a **Machine Learning / AI Engineer**.
+- 🐍 I use **Python** to learn, build projects, and solve problems.
+- 🧠 Currently improving my knowledge of **OOP, Data Structures & Algorithms, Machine Learning, and AI**.
+- 🌐 Exploring web development with **Django, Flask, and FastAPI**.
+- 📊 Interested in data science, predictive modelling, deep learning, and generative AI.
+- 💼 Open to **Machine Learning / AI internships**, collaborative projects, and open-source contributions.
+- 📫 Reach me at: **[pasanwijemanna54@gmail.com](mailto:pasanwijemanna54@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🐍 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Programming Languages" />
+</p>
+
+### 🤖 Machine Learning & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="Machine Learning Tools" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+### 🌐 Web Development & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,mysql,postgres,mongodb,firebase" alt="Web and Database Tools" />
+</p>
+
+### ⚙️ Developer Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,figma" alt="Developer Tools" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 Featured Projects
 
-- 🔭 I’m currently a **2nd year Software Engineering student** at the Open University of Sri Lanka.
-- 🌱 I’m deeply focused on **Machine Learning, Deep Learning, and Generative AI**.
-- 💻 I build projects with **Python**, and I'm expanding my skills in web frameworks like **Django, Flask, and FastAPI**.
-- 👯 I’m looking to collaborate on **ML/AI research projects** and open-source Python development.
-- 🤝 I’m actively seeking an **internship in Machine Learning / AI Engineering**.
-- 💬 Ask me about **Python (OOP, DSA), Machine Learning concepts, or web development with Django/Flask**.
-- 📫 How to reach me: **pasanwijemanna54@gmail.com**
-- ⚡ Fun fact: I see Python as my “mother tongue” in programming 🐍 and I love exploring how machines can learn just like humans!
+> Explore my repositories to see my learning journey, experiments, and practical projects.
 
----
-
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/pasanwijemanna" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn logo"/>
-  </a>
-  <a href="https://www.facebook.com/pasan.wijemanna.3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Facebook logo"/>
-  </a>
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Discord logo"/>
+<p>
+  <a href="https://github.com/pasanwijemanna?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
   </a>
 </p>
 
----
+Some areas I'm working on:
 
-### 💻 Tech Stack & Tools
-
-<p align="center">
-  <strong>Machine Learning & Data Science:</strong><br>
-  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=scikitlearn" height="40" alt="scikit_learn logo"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" height="40" alt="pandas logo"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="opencv logo"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo"/></a>
-  <a href="https://www.mathworks.com/" target="_blank"><img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"/></a>
-  <br><br>
-  <strong>Web Development & Databases:</strong><br>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"/></a>
-  <br><br>
-  <strong>DevOps & Tools:</strong><br>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/></a>
-</p>
+- 📈 **Machine Learning:** Classification, regression, model evaluation, and prediction.
+- 📊 **Data Science:** Data cleaning, exploratory data analysis, and visualisation.
+- 🌐 **Web Applications:** Python and Django-based projects.
+- 🧩 **Problem Solving:** Python, OOP, and Data Structures & Algorithms.
 
 ---
 
-### 📊 My GitHub Stats & Trophies
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pasanwijemanna&theme=dracula&column=7&margin-w=15&margin-h=15" alt="pasanwijemanna's trophies"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pasanwijemanna&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasanwijemanna&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
 </div>
 
+<div align="center">
 
-<div align="center" >
-<a  href="https://github.com/pasanwijemanna">
+  <img width="70%" src="https://streak-stats.demolab.com?user=pasanwijemanna&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+</div>
 
-</a>
+---
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+## 🏆 GitHub Trophies
 
-</details>
+<div align="center">
 
+  <img src="https://github-profile-trophy.vercel.app/?username=pasanwijemanna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies" />
 
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasanwijemanna&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+  <p>I'm always interested in learning, building, and collaborating on meaningful technology projects.</p>
+
+  <a href="https://linkedin.com/in/pasanwijemanna">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/pasan.wijemanna.3">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:pasanwijemanna54@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+
+  <h3>⭐ Thanks for visiting my profile! ⭐</h3>
+
+  <p><i>Keep learning. Keep building. Keep improving. 🚀</i></p>
 
 </div>
